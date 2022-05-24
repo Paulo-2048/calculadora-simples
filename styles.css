@@ -45,6 +45,9 @@
     font-size: 25px;
     color: black;
     text-align: right;
-    max-width: 12ch;
+    max-width: 28ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
